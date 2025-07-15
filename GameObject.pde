@@ -1,0 +1,3 @@
+interface GameObject{
+ void update(); 
+}
